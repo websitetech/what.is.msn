@@ -1,5 +1,5 @@
 # What is MSN?
-[![what is msn](redd.png)](https://github.com/websitetech/what.is.msn)
+[![what is msn](redd.png)](https://icncomputer.com/what-is-msn/)
 
 
 
